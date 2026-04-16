@@ -1,4 +1,5 @@
-# Advancing Cataract Detection and Screening Through Multi-Modal and Explainable Artificial Intelligence Systems
+# Cataract Detection using Multi-Modal Explainable AI
+Advancing cataract detection and screening through multi-modal and explainable artificial intelligence systems.
 
 This project implements an AI-based cataract detection system using fundus images and patient metadata based on the ODIR-5K dataset.
 
