@@ -1,4 +1,5 @@
-# Cataract Detection using Multi-Modal Deep Learning
+# Advancing Cataract Detection and Screening Through Multi-Modal and Explainable 
+# Artificial Intelligence Systems
 
 This project implements an AI-based cataract detection system using fundus images and patient metadata based on the ODIR-5K dataset.
 
